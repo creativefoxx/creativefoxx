@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @creativefoxx
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me @creativefoxx
 
 <!---
 creativefoxx/creativefoxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
